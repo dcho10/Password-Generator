@@ -7,9 +7,9 @@ This is a repository for my password generator. In this appplication, the user w
 
 ## Image to application: 
 
-![image](https://github.com/dcho10/Password-Generator/assets/153252185/192dbde8-ae30-467e-bf15-5e00346354d1)
+![image](https://github.com/dcho10/Password-Generator/assets/153252185/6944bbde-e7fc-4f39-9491-060af4f7519b)
 
 ## Links to application:
 
 # Repository: https://github.com/dcho10/Password-Generator
-# Application: 
+# Application: https://dcho10.github.io/Password-Generator/
